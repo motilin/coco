@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/coco/static/css/main.874e15be.chunk.css",
-    "main.js": "/coco/static/js/main.502388cd.chunk.js",
-    "main.js.map": "/coco/static/js/main.502388cd.chunk.js.map",
+    "main.css": "/coco/static/css/main.3106981d.chunk.css",
+    "main.js": "/coco/static/js/main.3326023f.chunk.js",
+    "main.js.map": "/coco/static/js/main.3326023f.chunk.js.map",
     "runtime-main.js": "/coco/static/js/runtime-main.55b45ed1.js",
     "runtime-main.js.map": "/coco/static/js/runtime-main.55b45ed1.js.map",
-    "static/js/2.46d851e4.chunk.js": "/coco/static/js/2.46d851e4.chunk.js",
-    "static/js/2.46d851e4.chunk.js.map": "/coco/static/js/2.46d851e4.chunk.js.map",
+    "static/js/2.95ce55da.chunk.js": "/coco/static/js/2.95ce55da.chunk.js",
+    "static/js/2.95ce55da.chunk.js.map": "/coco/static/js/2.95ce55da.chunk.js.map",
     "static/js/3.abb0c3f5.chunk.js": "/coco/static/js/3.abb0c3f5.chunk.js",
     "static/js/3.abb0c3f5.chunk.js.map": "/coco/static/js/3.abb0c3f5.chunk.js.map",
     "index.html": "/coco/index.html",
-    "static/css/main.874e15be.chunk.css.map": "/coco/static/css/main.874e15be.chunk.css.map",
-    "static/js/2.46d851e4.chunk.js.LICENSE.txt": "/coco/static/js/2.46d851e4.chunk.js.LICENSE.txt",
+    "static/css/main.3106981d.chunk.css.map": "/coco/static/css/main.3106981d.chunk.css.map",
+    "static/js/2.95ce55da.chunk.js.LICENSE.txt": "/coco/static/js/2.95ce55da.chunk.js.LICENSE.txt",
     "static/media/coco_labels.f6197292.txt": "/coco/static/media/coco_labels.f6197292.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.55b45ed1.js",
-    "static/js/2.46d851e4.chunk.js",
-    "static/css/main.874e15be.chunk.css",
-    "static/js/main.502388cd.chunk.js"
+    "static/js/2.95ce55da.chunk.js",
+    "static/css/main.3106981d.chunk.css",
+    "static/js/main.3326023f.chunk.js"
   ]
 }
